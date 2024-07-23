@@ -1,0 +1,56 @@
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\HERNANDEZ\Documents\Visual Studio 2015\Backup Files\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Cursos 🔨\Backups Projects\Calculator\Calculator\bin\Debug\Guna.UI.dll
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\Calculator.exe.config
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.exe
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.pdb
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\Calculator.exe
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\Calculator.pdb
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\Guna.UI.dll
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\mscorlib.dll
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\System.Net.Http.dll
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\System.Net.Http.xml
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\pt-PT\mscorlib.resources.dll
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\normidna.nlp
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfc.nlp
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfd.nlp
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfkc.nlp
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfkd.nlp
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Cursos 🔨\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.Calculadora.resources
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.exe
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\Calculator.exe
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.Calculadora.resources
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\mscorlib.dll
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\System.Net.Http.dll
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\System.Net.Http.xml
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\normidna.nlp
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfc.nlp
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfd.nlp
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfkc.nlp
+C:\Users\Gideão Hernández\Documents\Projectos\Csharp\Backups Projects\Calculator New Version\Calculator\bin\Debug\normnfkd.nlp
